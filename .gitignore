@@ -1,0 +1,7 @@
+# Local configuration
+.env
+
+# Local build resources
+yarn-error.log
+dist/
+node_modules/
