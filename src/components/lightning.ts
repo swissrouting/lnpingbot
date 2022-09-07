@@ -10,6 +10,7 @@ import table from 'text-table';
 export const { lnd } = authenticatedLndGrpc({
   macaroon: process.env.LIGHTNING_MACAROON_B64,
   socket: process.env.LIGHTNING_HOST_PORT,
+  cert: process.env.LIGHTNING_CERT_B64,
 });
 
 // TypeScript definitions for the interfaces defined in {lightning} library.
