@@ -30,7 +30,7 @@ Chat with [@botfather](https://telegram.me/botfather) on Telegram to create a ne
 
 ## Run Locally
 
-First copy `.env.sample` file to `.env` and fill in the required variables. You will need to provide valid credentials for an LND node and the host/port for the gRPC server.
+First copy `.env.sample` file to `.env` and fill in the required variables. You will need to provide valid base64-encoded credentials for an LND node and the host/port for the gRPC server. You may also need to provide a base64-encoded TLS cert for the server. Here are [instructions for generating the credentials](https://github.com/alexbosworth/lightning#lnd-authentication).
 
 Then use the following commands to spin up a local development environment:
 
