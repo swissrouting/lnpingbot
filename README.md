@@ -66,8 +66,8 @@ This Telegram bot is maintained and hosted by [Swiss Routing](https://github.com
 
 If you'd like to help contribute to the hosting costs, you can send us sats.
 
-- LNURL: [lntxbot.com/@swissrouting](https://lntxbot.com/@swissrouting)
+- LNURL: LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0X9URJEPKXANRXVRZVVEXGDE4XFJNQRHS3CL
 - Lightning Address:
-  swissrouting@lntxbot.com
+  swissrouting@ln.tips
 - Keysend to Lightning node:
   `0279f06eba0e1080f6a693201f090d0635a0e5dd2ef57d0207210e3d338133092e`
